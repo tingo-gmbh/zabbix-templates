@@ -5,6 +5,6 @@ various Zabbix Templates which we've created and are using. We do our best to be
 Those Templates are not offical coming from Zabbix LLC neither from the (hardware-)producer. If a Template is approved by the (hardware-)producer or created with him together, we'll place a note.
 
 # Templates
-| Template | Type | X | X | X | X |
+| Template | Category | Producer/Manufacturer | Model/Product | Data Collecting/Item Type | Remarks |
 | ------ | ------ | ------ | ------ |  ------ |  ------ |
 | Template HW Panasonic PT-RZ660 by HTTP | Hardware | Panasonic | PT-RZ660 | HTTP | nA |
