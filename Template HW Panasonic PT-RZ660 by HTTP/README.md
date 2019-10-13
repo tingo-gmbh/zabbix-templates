@@ -1,7 +1,22 @@
 # Template HW Panasonic PT-RZ660 by HTTP
 
-## Item
-There is one «master item» (Zabbix raw items) which does the collecting of the data over an «HTTP agent» Item-Type. It will just go take the Raw-Data of `http://{HOST.CONN}/cgi-bin/projector_status.cgi?lang=e`, because the PT-RZ660 has no other Info-Interface (like XML, JSON or something; except sending Mails).
+## Applications
+| Application |
+| ------ |
+| x |
+| x |
+| x |
+| x |
+
+## Items
+| Name | Key | Interval | History | Trends | Type | Applications |
+| ------ | ------ | ------ | ------ |  ------ |  ------ |  ------ |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+
 
 ## Macros
 Adjust the Macros inside the Template according to your setup of the Panasonic PT-RZ660. Username (`user1`) and Password (`panasonic`) are the default ones (check PT-RZ660 Manual, Page 157).
