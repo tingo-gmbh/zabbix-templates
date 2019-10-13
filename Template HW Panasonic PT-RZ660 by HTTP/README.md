@@ -3,14 +3,32 @@
 ## Applications
 | Application |
 | ------ |
-| x |
-| x |
-| x |
-| x |
+| Input |
+| Light |
+| Power |
+| Projector |
+| Temperature |
+| Zabbix raw items |
 
 ## Items
 | Name | Key | Interval | History | Trends | Type | Applications |
 | ------ | ------ | ------ | ------ |  ------ |  ------ |  ------ |
+| Get: projector_status.cgi | ptrz660.http.projector_status | 1m | 1h | 0 | HTTP agent | Zabbix raw items |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
+| x | x | x | x | x | x | x |
 | x | x | x | x | x | x | x |
 | x | x | x | x | x | x | x |
 | x | x | x | x | x | x | x |
