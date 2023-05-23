@@ -7,4 +7,3 @@ Those Templates are not offical coming from [Zabbix LLC](https://www.zabbix.com)
 # Templates
 | Template | Category | Producer/Manufacturer | Model/Product | Data Collecting/Item Type | Remarks |
 | ------ | ------ | ------ | ------ |  ------ |  ------ |
-| Template HW Panasonic PT-RZ660 by HTTP | Hardware | Panasonic | PT-RZ660 | HTTP | nA |
